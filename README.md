@@ -17,15 +17,6 @@ By accurately predicting the probability of a successful first stage landing, it
 - `reports/`: Location to store reports, presentations, or any documentation related to the project.
 - `README.md`: This README file providing an overview of the project.
 
-## How to Use
-
-To explore the capstone project, follow these steps:
-
-1. Clone this repository to your local environment using the `git clone` command.
-2. Explore the Jupyter notebooks in the `notebooks/` folder to view the code used in each stage of the project.
-3. Review the datasets in the `data/` folder to understand the data used in the project.
-4. Read the reports or presentations in the `reports/` folder to understand the results and conclusions of the project.
-
 ## Contributions
 
 Contributions are welcome! If you identify opportunities for improvement, errors in the code, or have suggestions for the project, feel free to open an issue or submit a pull request.
